@@ -1,0 +1,12 @@
+C:\Users\ncjus\Downloads\ExamWebAPI\ExamWebAPI\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\ncjus\Downloads\ExamWebAPI\ExamWebAPI\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\ncjus\Downloads\ExamWebAPI\ExamWebAPI\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\ncjus\Downloads\ExamWebAPI\ExamWebAPI\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\ncjus\Downloads\ExamWebAPI\ExamWebAPI\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncjus\Downloads\ExamWebAPI\ExamWebAPI\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\ncjus\Downloads\ExamWebAPI\ExamWebAPI\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\ncjus\Downloads\ExamWebAPI\ExamWebAPI\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ncjus\Downloads\ExamWebAPI\ExamWebAPI\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\ncjus\Downloads\ExamWebAPI\ExamWebAPI\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\ncjus\Downloads\ExamWebAPI\ExamWebAPI\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\ncjus\Downloads\ExamWebAPI\ExamWebAPI\Contracts\obj\Debug\net8.0\ref\Contracts.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/t/S4erNtZLbRDkqxZ+FJ9LnlnqNMN9o+g447l4sTzFBfd3NYziphIKTSgraCwB3biTwkQ9s+TeFWF5QAGr3zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ncjus\\Downloads\\ExamWebAPI\\ExamWebAPI\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ncjus\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
