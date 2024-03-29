@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Fq3z0VekYOnk0zWjaKQSAAdJGLDmNDO6TyJMZgWCrHzpL/76BH+4+GUwNnlEzayYSBHw0EcYTrM6Nu2udp3sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ncjus\\Downloads\\WebApiTraining2024-master\\WebApiTraining2024-master\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ncjus\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
